@@ -130,7 +130,7 @@ import com.eteks.sweethome3d.viewcontroller.ViewFactory;
  * <a href="http://download.oracle.com/javase/6/docs/technotes/tools/windows/java.html">java</a> option.
  * @author Emmanuel Puybaret
  */
-public class SweetHome3D extends HomeApplication {
+public class gitSweetHome3D extends HomeApplication {
   private static final String     PREFERENCES_FOLDER             = "com.eteks.sweethome3d.preferencesFolder";
   private static final String     APPLICATION_FOLDERS            = "com.eteks.sweethome3d.applicationFolders";
   private static final String     APPLICATION_PLUGINS_SUB_FOLDER = "plugins";
